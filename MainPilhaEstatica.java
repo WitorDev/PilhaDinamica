@@ -1,3 +1,5 @@
+package pilha;
+
 public class MainPilhaEstatica {
   public static void main(String[] args) {
 

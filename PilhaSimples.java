@@ -1,3 +1,5 @@
+package pilha;
+
 public class PilhaSimples<T> {
 
   private String[] pilha;

@@ -1,3 +1,5 @@
+package pilha;
+
 public class MainPilhaDinamica {
   public static void main(String[] args) {
 

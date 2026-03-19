@@ -1,3 +1,5 @@
+package pilha;
+
 public class PilhaDinamica {
 
   No inicio;
